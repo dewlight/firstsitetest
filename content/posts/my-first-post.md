@@ -13,5 +13,6 @@ This is **bold** text, and this is *emphasized* text.
 
 更新測試
 
+**更新測試2**
 
 Visit the [Hugo](https://gohugo.io) website!
