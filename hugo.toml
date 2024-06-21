@@ -1,0 +1,4 @@
+baseURL = 'https://dewlight.org/'
+languageCode = 'en-us'
+title = 'Dew Light'
+theme = 'ananke'
